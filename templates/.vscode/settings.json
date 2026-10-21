@@ -1,0 +1,26 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Enabled",
+                "ssl": {
+                    "ca": "C:/certs/isrgrootx1.pem"
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "gateway01.ap-northeast-1.prod.aws.tidbcloud.com",
+            "port": 4000,
+            "driver": "TiDB",
+            "username": "3vYphy7Boy8Ce91.root",
+            "database": "test",
+            "name": "Test"
+        }
+    ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
