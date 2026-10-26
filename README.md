@@ -43,7 +43,7 @@ git push origin main
 1. Go to [Render.com](https://render.com) and click **Sign Up** (or log in with your GitHub account).
 2. Click **New +** at the top right and select **Web Service**.
 3. Choose **Build and deploy from a Git repository**.
-4. Select your repository: `AI_CAREER_COPILOT`.
+4. Select your repository: `AI_CAREER_COPAILOT`.
 
 ### Step 3: Configure Settings
 Render will auto-detect settings or you can set:
@@ -68,8 +68,8 @@ Click **Create Web Service**. Within 2-3 minutes, your project will be **LIVE** 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/pkrima/AI_CAREER_COPILOT.git
-cd AI_CAREER_COPILOT
+git clone https://github.com/pkrima/AI_CAREER_COPAILOT.git
+cd AI_CAREER_COPAILOT
 ```
 
 ### 2. Create and activate a virtual environment
